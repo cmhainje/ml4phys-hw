@@ -1,3 +1,5 @@
 **/.ipynb_checkpoints/
 hw3_data/
 hw3_models/
+__pycache__
+hw4_models
